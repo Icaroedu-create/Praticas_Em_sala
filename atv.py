@@ -1,6 +1,6 @@
 entrada = input("digite alguma coisa: ")
 
-# funadamentos:
+# fundamentos:
 
 print("E numerico?", entrada.isnumeric())
 print("E alfabetico?" , entrada.isalpha())
