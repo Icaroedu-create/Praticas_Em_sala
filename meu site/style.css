@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #eeeeee;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.caixa{
+    background: #ffffff;
+    width: 400px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 15px;    
+}
+
+h1{
+    color: #333333;
+}
+
+button{
+    padding: 12px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
